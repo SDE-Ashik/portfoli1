@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "30195462683",
+    "project_id": "portfolio-8699d",
+    "storage_bucket": "portfolio-8699d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30195462683:android:aae7c98583fc7672da3ebe",
+        "android_client_info": {
+          "package_name": "com.example.yelwinoo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuI0HAsuFIE_ofFdFDV32Ss94vwiJk6BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30195462683:android:e9e7a7286d3f0807da3ebe",
+        "android_client_info": {
+          "package_name": "com.exmple.myportfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuI0HAsuFIE_ofFdFDV32Ss94vwiJk6BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
